@@ -2,4 +2,6 @@ edit# This is my first file
 Hello World!
 edited on gitub.com
 appended in Git shell
+#v0.1
+This is version 0.1
 
